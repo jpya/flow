@@ -248,42 +248,42 @@ https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_EXTRA
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,Baby TV
+#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/264/CH_LOGO/60/40/0/0/1882664507695.png" group-title="CANALES FLOW"  ,Baby TV
 https://chromecast.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_2A/BabyTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW" ,Cartoon Network
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/71/CH_LOGO/60/40/0/0/5742614807226.png" group-title="CANALES FLOW" ,Cartoon Network
 https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,Cartoonito
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/266/CH_LOGO/60/40/0/0/3115537507174.png" group-title="CANALES FLOW"  ,Cartoonito
 https://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,Discovery Kids
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/679/CH_LOGO/60/40/0/0/189646490776.png" group-title="CANALES FLOW"  ,Discovery Kids
 https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,Disney Channel
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/275/CH_LOGO/60/40/0/0/13885222074367.png" group-title="CANALES FLOW"  ,Disney Channel
 https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"   ,Disney Junior
+#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/276/CH_LOGO/60/40/0/0/5684077607756.png" group-title="CANALES FLOW"   ,Disney Junior
 https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,Dreamworks TV
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/9140/CH_LOGO/60/40/0/0/36735087077133.png" group-title="CANALES FLOW"  ,Dreamworks TV
 https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dreamworks.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,Nickelodeon
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/6857/CH_LOGO/60/40/0/0/27051020073952.png" group-title="CANALES FLOW"  ,Nickelodeon
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -293,7 +293,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,Paka Paka
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/713/CH_LOGO/60/40/0/0/16840921071492.png" group-title="CANALES FLOW"  ,Paka Paka
 https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -303,7 +303,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,Tooncast
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/726/CH_LOGO/60/40/0/0/43956127073681.png" group-title="CANALES FLOW"  ,Tooncast
 https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
