@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1,A24
