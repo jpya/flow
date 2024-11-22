@@ -58,7 +58,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_2A/C
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW" ,Telefe
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/69/CH_LOGO/60/40/0/0/65442435072354.png" group-title="CANALES FLOW" ,Telefe
 https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -68,7 +68,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW" ,América
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="CANALES FLOW" ,América
 https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -83,7 +83,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"  ,TN
+#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/70/CH_LOGO/60/40/0/0/22986115071847.png" group-title="CANALES FLOW"  ,TN
 https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -846,7 +846,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0179a4ba9f407dfdee057a33f8f220c:e0c3f11cb1d7f8d17b7a1532f29edb0b
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"   ,Somos Corrientes
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES FLOW"   ,Somos Corrientes
 https://chromecast.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
