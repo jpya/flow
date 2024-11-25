@@ -2,8 +2,7 @@
 
 
 
-#EXTINF:-1, group-title="CINE",[COLOR orange][B][I]CINE[/COLOR][/B][/I]
-https://url-entretenimiento/stream.m3u8
+
 
 
 
