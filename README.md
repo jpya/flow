@@ -2,6 +2,10 @@
 
 
 
+#EXTINF:-1, group-title="CINE",[COLOR orange][B][I]CINE[/COLOR][/B][/I]
+https://url-entretenimiento/stream.m3u8
+
+
 
 
 
@@ -61,9 +65,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_2A/C
 https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 
-#EXTINF:-1, Canales de Entretenimiento
-#EXTCOLOR: rojo
-https://url-entretenimiento/stream.m3u8
+
 
 
 
