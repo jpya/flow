@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"
 
 
 
@@ -64,7 +63,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.m
 
 #EXTINF:-1, Canales de Entretenimiento
 #EXTCOLOR: rojo
-http://url-entretenimiento/stream.m3u8
+https://url-entretenimiento/stream.m3u8
 
 
 
